@@ -12,9 +12,9 @@ private class calculateAgeInYearsTest {
 
         Test.startTest();
 
-        System.assertEquals(25, calculateAgeInYears(age1), 'Incorrect age');
-        System.assertEquals(41, calculateAgeInYears(age2), 'Incorrect age');
-        System.assertEquals(null, calculateAgeInYears(age3), 'Incorrect age');
+        System.assertEquals(25, apexPractice.calculateAgeInYears(age1), 'Incorrect age');
+        System.assertEquals(41, apexPractice.calculateAgeInYears(age2), 'Incorrect age');
+        System.assertEquals(null, apexPractice.calculateAgeInYears(age3), 'Incorrect age');
 
         Test.stopTest();
 
