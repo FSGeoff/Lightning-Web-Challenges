@@ -4,7 +4,8 @@
         <members>calculateAgeInYearsTest</members>
         <members>apexPractice</members>
         <members>groupAccountsByRatingTest</members>
-        <members>http</members>
+        <members>httpPractice</members>
+        <members>fetchUserAgeTest</members>
         <name>ApexClass</name>
     </types>
     <version>63.0</version>
